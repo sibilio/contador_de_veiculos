@@ -12,5 +12,5 @@
 </ul>
 <h2>Desenvolvimento</h2>
 <p>Todo o desenvolvimento foi feito em python utilizando o framework para deep learning TensorFlow.</p>
-<p>Para esse experimento não foi criado nenhum modelo, foi utilizado ssd_mobilenet_v1_coco_2017 (mais informações podem ser encontradas aqui <a hre="https://github.com/tensorflow/models/tree/master/research/object_detection">github da API de detecção de objetos</a>.</p>
+<p>Para esse experimento não foi criado nenhum modelo, foi utilizado ssd_mobilenet_v1_coco_2017 (mais informações podem ser encontradas aqui <a href="https://github.com/tensorflow/models/tree/master/research/object_detection">github da API de detecção de objetos</a>.</p>
 <p>Para aumentar a acuracia e a velocidade o modelo foi retreinado utilizando-se somente uma classe (carro).</p>
